@@ -31,7 +31,7 @@
     <p>Hava Account YET??<a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank YOU </h1>
+   <h1> Hello We Are Happy To Have YOU BACK </h1>
 
   
 </form>
