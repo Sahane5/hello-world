@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Hava An Account<a href="#">Sign in</a>.</p>
+    <p>Hava Account YET??<a href="#">Sign in</a>.</p>
   </div>
 
    <h1> Thank YOU </h1>
